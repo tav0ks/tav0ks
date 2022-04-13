@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é Vinícius Tavolaro
+- 👀 Tenho interesse na área de back-end 
+- 🌱 Atualmente estou aprendendo Phyton
+- 📫 Entre em contato comigo pelo meu E-mail: viniciustavolaro@gmail.com
